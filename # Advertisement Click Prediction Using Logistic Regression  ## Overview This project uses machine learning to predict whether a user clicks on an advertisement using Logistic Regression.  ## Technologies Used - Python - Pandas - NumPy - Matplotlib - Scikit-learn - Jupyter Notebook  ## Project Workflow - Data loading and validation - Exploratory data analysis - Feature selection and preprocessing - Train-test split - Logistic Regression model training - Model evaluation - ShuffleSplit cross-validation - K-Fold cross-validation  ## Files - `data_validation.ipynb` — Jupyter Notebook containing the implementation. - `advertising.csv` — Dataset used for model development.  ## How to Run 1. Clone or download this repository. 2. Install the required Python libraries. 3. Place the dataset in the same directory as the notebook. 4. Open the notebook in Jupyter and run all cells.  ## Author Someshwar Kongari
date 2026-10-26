@@ -1,0 +1,35 @@
+# Advertisement Click Prediction Using Logistic Regression
+
+## Overview
+This project uses machine learning to predict whether a user clicks on an advertisement using Logistic Regression.
+
+## Technologies Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+- Jupyter Notebook
+
+## Project Workflow
+- Data loading and validation
+- Exploratory data analysis
+- Feature selection and preprocessing
+- Train-test split
+- Logistic Regression model training
+- Model evaluation
+- ShuffleSplit cross-validation
+- K-Fold cross-validation
+
+## Files
+- `data_validation.ipynb` — Jupyter Notebook containing the implementation.
+- `advertising.csv` — Dataset used for model development.
+
+## How to Run
+1. Clone or download this repository.
+2. Install the required Python libraries.
+3. Place the dataset in the same directory as the notebook.
+4. Open the notebook in Jupyter and run all cells.
+
+## Author
+Someshwar Kongari
